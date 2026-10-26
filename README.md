@@ -2,6 +2,8 @@
 
 **UNIT DevLab distribution:** The Arduino library name is `DevLab_LibHelix`. Include `<DevLab_LibHelix.h>` to select this distribution when the original library is also installed. The original project is by Phil Schatzmann.
 
+Cesar Bautista and Adrián Rabadán are credited for the UNIT DevLab distribution and its DualMCU integration. Adrián participated in the initial DualMCU version.
+
 [![Arduino Library](https://img.shields.io/badge/Arduino-Library-blue.svg)](https://www.arduino.cc/reference/en/libraries/)
 [![Zephyr Library](https://img.shields.io/badge/Zephyr-Library-blue.svg)](https://github.com/pschatzmann/codec-helix)
 [![IDF Component](https://img.shields.io/badge/IDF-Component-blue.svg)](https://github.com/pschatzmann/codec-helix)
